@@ -15,3 +15,10 @@ If you are developing a production application, we recommend using TypeScript wi
 ===========================
 Make sure to install Vite and Tailwind CSS and Node.js
 ===============================
+if using a template 
+create a .env file 
+
+email_user
+email_pass
+
+database config
